@@ -4,218 +4,101 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+digital+products+from+0+%E2%86%92+1;Engineering+%2B+Design+%2B+Product;Turning+ideas+into+production-ready+software;Building+Happenins+%F0%9F%9A%80;Code.+Create.+Launch.+Scale." />
+\`\`\`
+$ whoami
+> a developer who ships things people actually use
+
+$ status
+> currently building Happenins 🚀
+
+$ philosophy
+> code is a means, not the point — the point is the user on the other end
+\`\`\`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+digital+products+from+0+%E2%86%92+1;This+README+is+the+only+doc+I+wrote+twice;Turning+3AM+ideas+into+production+software;Building+Happenins+%F0%9F%9A%80;Ship+first%2C+perfect+later." />
 
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,firebase,git,github,figma,vscode&perline=12" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/FOCUS-Full--Stack%20Engineering-00D9FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/BUILDING-Happenins-8B5CF6?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/MINDSET-Product%20First-22C55E?style=for-the-badge&labelColor=0D1117" />
-
 </div>
 
 ---
 
-<div align="center">
+## 👋 The short version
 
-# `01` — WHO I AM
+I build products end-to-end — the kind you'd actually explain to your mom without saying "it's like Uber for X."
 
-### **I don't just write code. I build products.**
-
-</div>
+Not a résumé bullet-point developer. I've shipped a **ticketing platform** (Happenins), a **DSA visualization tool** (Algora), and an **emergency healthcare coordinator** (MediSync) — three completely different problem domains, same obsession: does this actually work for the person using it at 11pm on a bad day.
 
 <table>
 <tr>
-<td width="55%">
+<td width="60%" valign="top">
 
-I'm a **Full-Stack Developer, Product Engineer and Startup Builder** focused on creating modern digital products from concept to production.
+**What I'm actually good at:**
+- Taking a vague idea and making it a real, working thing
+- Making architecture decisions I won't regret in 6 months
+- Building UI that doesn't need a tutorial
+- Shipping instead of endlessly polishing
 
-I enjoy working across the complete product lifecycle:
-
-**Problem → Product → Architecture → Code → Users → Growth**
-
-My work combines:
-
-* 🧠 Engineering
-* 🎨 Product Design
-* 🏗️ Architecture
-* 🚀 Startup Thinking
-* 📈 Continuous Improvement
+**What I'm bad at (working on it):**
+- Saying no to scope creep
+- Sleeping before a launch
+- Writing documentation *before* someone asks for it
 
 </td>
+<td width="40%" valign="top">
 
-<td width="45%">
-
-```text
-       ┌──────────────────┐
-       │      IDEA        │
-       └────────┬─────────┘
-                │
-          ┌─────▼─────┐
-          │   DESIGN  │
-          └─────┬─────┘
-                │
-       ┌────────▼────────┐
-       │   ARCHITECTURE  │
-       └────────┬────────┘
-                │
-          ┌─────▼─────┐
-          │    CODE   │
-          └─────┬─────┘
-                │
-         ┌──────▼──────┐
-         │    SHIP     │
-         └──────┬──────┘
-                │
-          ┌─────▼─────┐
-          │   SCALE   │
-          └───────────┘
-```
+\`\`\`js
+const sarthak = {
+  role: ["builder", "engineer", "founder-brained"],
+  currentObsession: "Happenins",
+  weapon: "Next.js + Firebase",
+  motto: "ship it, then fix it",
+  caffeineLevel: "concerning",
+}
+\`\`\`
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<div align="center">
-
-> **Build useful things. Keep the architecture clean. Ship continuously.**
-
-</div>
-
 ---
 
-# `02` — ENGINEERING STACK
+## 🛠️ What's under the hood
 
 <div align="center">
 
-## ⚛️ Frontend
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-
-<br/><br/>
-
-## ☁️ Backend & Cloud
-
+<br/>
 <img src="https://skillicons.dev/icons?i=firebase" />
-
-<br/><br/>
-
-## 🛠️ Tools & Workflow
-
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 
 </div>
 
-<br/>
-
 <table>
-<tr>
-<th>Domain</th>
-<th>Stack</th>
-</tr>
-
-<tr>
-<td>Languages</td>
-<td>JavaScript · TypeScript · HTML · CSS</td>
-</tr>
-
-<tr>
-<td>Frontend</td>
-<td>React · Next.js · Tailwind CSS</td>
-</tr>
-
-<tr>
-<td>Backend</td>
-<td>Firebase · Cloud Services</td>
-</tr>
-
-<tr>
-<td>Design</td>
-<td>Figma · UI/UX</td>
-</tr>
-
-<tr>
-<td>Version Control</td>
-<td>Git · GitHub</td>
-</tr>
-
-<tr>
-<td>Development</td>
-<td>VS Code</td>
-</tr>
-
+<tr><th>Domain</th><th>Stack</th><th>Why</th></tr>
+<tr><td>Frontend</td><td>React · Next.js · Tailwind</td><td>Fast to build, fast to ship, doesn't fight me</td></tr>
+<tr><td>Backend</td><td>Firebase · Cloud Services</td><td>I'd rather build product than manage servers</td></tr>
+<tr><td>Language</td><td>TypeScript > JavaScript</td><td>Future me deserves fewer surprises</td></tr>
+<tr><td>Design</td><td>Figma</td><td>I design before I code — always</td></tr>
 </table>
 
 ---
 
-# `03` — WHAT I BUILD
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-## 🌐
-
-### WEB PRODUCTS
-
-Modern applications designed around performance, usability and scalability.
-
-`React` `Next.js` `TypeScript`
-
-</td>
-
-<td width="33%" align="center">
-
-## 🚀
-
-### STARTUP MVPs
-
-Taking products from **zero → one** and validating ideas with real users.
-
-`Product` `UX` `Engineering`
-
-</td>
-
-<td width="33%" align="center">
-
-## 🎮
-
-### EXPERIMENTS
-
-Games, interactive interfaces, animations and unconventional web experiences.
-
-`JavaScript` `UI` `Logic`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# `04` — FEATURED PROJECTS
-
-<!--
-  Replace the placeholder rows below with your real projects.
-  Suggested content per project: name, one-line pitch, tech badges,
-  a screenshot/GIF if you have one, and live + repo links.
--->
+## 🚀 Things I've actually shipped
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🎟️ Happenins
-Event discovery & ticketing platform for Nagpur/Pune — connecting people with local events in real time.
+*The problem: finding out about events in Nagpur/Pune after they've already happened.*
 
-`Next.js` `TypeScript` `Firebase` `Tailwind`
+The fix: a real-time event discovery + ticketing platform built for local scenes, not generic mega-cities.
+
+\`Next.js\` \`TypeScript\` \`Firebase\` \`Tailwind\`
 
 [Live](#) · [Repo](#)
 
@@ -223,9 +106,11 @@ Event discovery & ticketing platform for Nagpur/Pune — connecting people with 
 <td width="50%" valign="top">
 
 ### 📊 Algora
-Production-grade DSA learning & visualization SaaS — interactive algorithm walkthroughs for learners.
+*The problem: DSA tutorials that explain algorithms with static text and hope you get it.*
 
-`React` `TypeScript` `Tailwind`
+The fix: production-grade visualizations that let you actually *watch* an algorithm think.
+
+\`React\` \`TypeScript\` \`Tailwind\`
 
 [Live](#) · [Repo](#)
 
@@ -235,19 +120,23 @@ Production-grade DSA learning & visualization SaaS — interactive algorithm wal
 <td width="50%" valign="top">
 
 ### 🏥 MediSync
-Emergency healthcare coordination platform built for Maharashtra — connecting patients, responders, and facilities.
+*The problem: emergency coordination in Maharashtra runs on phone calls and hope.*
 
-`React` `Firebase` `Tailwind`
+The fix: a platform connecting patients, responders, and facilities in real time — because minutes matter.
+
+\`React\` \`Firebase\` \`Tailwind\`
 
 [Live](#) · [Repo](#)
 
 </td>
 <td width="50%" valign="top">
 
-### ➕ Your Next Build
-Short pitch of what it does and why it matters.
+### ➕ Next one
+*The problem you haven't told me about yet.*
 
-`Stack` `Badges` `Here`
+Slide into my inbox — I collect hard problems.
+
+\`?\` \`?\` \`?\`
 
 [Live](#) · [Repo](#)
 
@@ -257,72 +146,37 @@ Short pitch of what it does and why it matters.
 
 ---
 
-# `05` — ENGINEERING MINDSET
+## 🧠 How I think about building software
 
-<div align="center">
+> **"Working code is the starting point — not the finish line."**
 
-### **Working code is the starting point — not the finish line.**
+| Principle | In plain terms |
+|---|---|
+| **Simplicity** | If I can't explain the architecture in 2 minutes, it's too complicated |
+| **Reusability** | Build it once, evolve it forever — don't rewrite what you can refactor |
+| **Performance** | Slow software is a bug, not a "later" problem |
+| **Product thinking** | A feature nobody uses isn't a feature, it's a maintenance cost |
+| **Iteration** | Ship → measure → learn → improve → repeat, forever |
 
-</div>
-
-### Principles
-
-| Principle            | What it means                                                |
-| -------------------- | ------------------------------------------------------------ |
-| **Simplicity**       | Solve complex problems with understandable systems.          |
-| **Reusability**      | Build components that can evolve instead of being rewritten. |
-| **Performance**      | Fast software creates better experiences.                    |
-| **Product Thinking** | Technology should create measurable user value.              |
-| **Iteration**        | Ship → Measure → Learn → Improve.                            |
-
-<div align="center">
-
-```text
+\`\`\`
 LEARN → DESIGN → BUILD → SHIP → MEASURE → IMPROVE → 🔁
-```
-
-</div>
+\`\`\`
 
 ---
 
-# `06` — CURRENTLY BUILDING
+## 📡 Currently
 
-```yaml
-developer:
-  name: Sarthak Kale
-  role:
-    - Full-Stack Developer
-    - Product Engineer
-    - Startup Builder
-
-building:
-  - Happenins — event discovery & ticketing
-  - Algora — DSA learning & visualization SaaS
-  - MediSync — emergency healthcare coordination
-
-learning:
-  - Advanced React
-  - Next.js
-  - Full-Stack Architecture
-  - Scalable Application Design
-  - Product Development
-
-interests:
-  - Software Engineering
-  - Product Design
-  - Startups
-  - UX Engineering
-  - Interactive Experiences
-
-mission:
-  - Build products people actually use
-  - Solve meaningful problems
-  - Learn through shipping
-```
+\`\`\`yaml
+building:     Happenins — event discovery & ticketing for Nagpur/Pune
+also_running: Algora, MediSync
+learning:     advanced Next.js patterns, scalable architecture
+open_to:      hard problems, interesting collabs, startup chaos
+not_open_to:  "quick 5-minute favor" requests that take 3 hours
+\`\`\`
 
 ---
 
-# `07` — GITHUB UNIVERSE
+## 📊 GitHub, quantified
 
 <div align="center">
 
@@ -338,13 +192,7 @@ mission:
 
 <img src="https://github-profile-trophy.vercel.app/?username=sarthak-kale&theme=darkhub&no-frame=true&no-bg=true&column=6" width="80%" />
 
-</div>
-
----
-
-# `08` — CONTRIBUTION MATRIX
-
-<div align="center">
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution snake"/>
 
@@ -352,13 +200,9 @@ mission:
 
 ---
 
-# `09` — CONNECT
-
 <div align="center">
 
-### Let's build something meaningful.
-
-<br/>
+## Let's build something meaningful
 
 <a href="https://github.com/sarthak-kale">
 <img src="https://img.shields.io/badge/GitHub-Sarthak%20Kale-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
@@ -375,8 +219,10 @@ mission:
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00D9FF,50:111827,100:0D1117" width="100%"/>
+<sub>If you read this far, you're exactly the kind of person I want to build with.</sub>
 
-### `CODE` · `CREATE` · `LAUNCH` · `SCALE`
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00D9FF,50:111827,100:0D1117" width="100%"/>
 
 </div>
