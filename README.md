@@ -200,6 +200,62 @@ Games, interactive interfaces, animations and unconventional web experiences.
 
 ---
 
+# `04` — FEATURED PROJECTS
+
+<!--
+  Replace the placeholder rows below with your real projects.
+  Suggested content per project: name, one-line pitch, tech badges,
+  a screenshot/GIF if you have one, and live + repo links.
+-->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎟️ Happenins
+Event discovery & ticketing platform for Nagpur/Pune — connecting people with local events in real time.
+
+`Next.js` `TypeScript` `Firebase` `Tailwind`
+
+[Live](#) · [Repo](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Algora
+Production-grade DSA learning & visualization SaaS — interactive algorithm walkthroughs for learners.
+
+`React` `TypeScript` `Tailwind`
+
+[Live](#) · [Repo](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 MediSync
+Emergency healthcare coordination platform built for Maharashtra — connecting patients, responders, and facilities.
+
+`React` `Firebase` `Tailwind`
+
+[Live](#) · [Repo](#)
+
+</td>
+<td width="50%" valign="top">
+
+### ➕ Your Next Build
+Short pitch of what it does and why it matters.
+
+`Stack` `Badges` `Here`
+
+[Live](#) · [Repo](#)
+
+</td>
+</tr>
+</table>
+
+---
 
 # `05` — ENGINEERING MINDSET
 
@@ -208,32 +264,6 @@ Games, interactive interfaces, animations and unconventional web experiences.
 ### **Working code is the starting point — not the finish line.**
 
 </div>
-
-```text
-                  ┌─────────────────┐
-                  │    READABLE     │
-                  └────────┬────────┘
-                           │
-                  ┌────────▼────────┐
-                  │  MAINTAINABLE   │
-                  └────────┬────────┘
-                           │
-             ┌─────────────▼─────────────┐
-             │         SCALABLE          │
-             └─────────────┬─────────────┘
-                           │
-                  ┌────────▼────────┐
-                  │    TESTABLE     │
-                  └────────┬────────┘
-                           │
-                  ┌────────▼────────┐
-                  │   PERFORMANT    │
-                  └────────┬────────┘
-                           │
-                  ┌────────▼────────┐
-                  │  EASY TO EVOLVE │
-                  └─────────────────┘
-```
 
 ### Principles
 
@@ -244,6 +274,14 @@ Games, interactive interfaces, animations and unconventional web experiences.
 | **Performance**      | Fast software creates better experiences.                    |
 | **Product Thinking** | Technology should create measurable user value.              |
 | **Iteration**        | Ship → Measure → Learn → Improve.                            |
+
+<div align="center">
+
+```text
+LEARN → DESIGN → BUILD → SHIP → MEASURE → IMPROVE → 🔁
+```
+
+</div>
 
 ---
 
@@ -258,10 +296,9 @@ developer:
     - Startup Builder
 
 building:
-  - Modern Web Applications
-  - Startup MVPs
-  - Interactive Frontend Experiences
-  - Mini Web Games
+  - Happenins — event discovery & ticketing
+  - Algora — DSA learning & visualization SaaS
+  - MediSync — emergency healthcare coordination
 
 learning:
   - Advanced React
@@ -285,61 +322,7 @@ mission:
 
 ---
 
-# `07` — HOW I APPROACH SOFTWARE
-
-<div align="center">
-
-```text
-                         USER
-                          │
-                          ▼
-                   ┌─────────────┐
-                   │   PROBLEM   │
-                   └──────┬──────┘
-                          │
-                          ▼
-                   ┌─────────────┐
-                   │   RESEARCH  │
-                   └──────┬──────┘
-                          │
-                          ▼
-                   ┌─────────────┐
-                   │   SOLUTION  │
-                   └──────┬──────┘
-                          │
-                          ▼
-                   ┌─────────────┐
-                   │ ARCHITECTURE│
-                   └──────┬──────┘
-                          │
-                          ▼
-                   ┌─────────────┐
-                   │    BUILD    │
-                   └──────┬──────┘
-                          │
-                          ▼
-                   ┌─────────────┐
-                   │    SHIP     │
-                   └──────┬──────┘
-                          │
-                          ▼
-                   ┌─────────────┐
-                   │   MEASURE   │
-                   └──────┬──────┘
-                          │
-                          ▼
-                   ┌─────────────┐
-                   │   IMPROVE   │
-                   └──────┬──────┘
-                          │
-                          └──────────► 🔁
-```
-
-</div>
-
----
-
-# `08` — GITHUB UNIVERSE
+# `07` — GITHUB UNIVERSE
 
 <div align="center">
 
@@ -351,11 +334,15 @@ mission:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-kale&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=00D9FF&text_color=8B949E" width="40%" />
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sarthak-kale&theme=darkhub&no-frame=true&no-bg=true&column=6" width="80%" />
+
 </div>
 
 ---
 
-# `09` — CONTRIBUTION MATRIX
+# `08` — CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -365,68 +352,7 @@ mission:
 
 ---
 
-# `10` — DEVELOPER PHILOSOPHY
-
-<div align="center">
-
-### **"Don't just learn technology. Build with it."**
-
-<br/>
-
-<table>
-<tr>
-<td align="center">🧠<br/><b>LEARN</b></td>
-<td>→</td>
-<td align="center">🎨<br/><b>DESIGN</b></td>
-<td>→</td>
-<td align="center">💻<br/><b>BUILD</b></td>
-<td>→</td>
-<td align="center">🚀<br/><b>SHIP</b></td>
-<td>→</td>
-<td align="center">📈<br/><b>IMPROVE</b></td>
-</tr>
-</table>
-
-<br/>
-
-**Real products. Real problems. Real users.**
-
-</div>
-
----
-
-# `11` — BEYOND CODE
-
-```text
-              ┌──────────────────┐
-              │   ENGINEERING    │
-              └────────┬─────────┘
-                       │
-             ┌─────────▼─────────┐
-             │       DESIGN      │
-             └─────────┬─────────┘
-                       │
-             ┌─────────▼─────────┐
-             │      PRODUCT      │
-             └─────────┬─────────┘
-                       │
-             ┌─────────▼─────────┐
-             │      BUSINESS     │
-             └─────────┬─────────┘
-                       │
-                       ▼
-              ┌──────────────────┐
-              │   REAL IMPACT    │
-              └──────────────────┘
-```
-
-I'm interested in the **complete technology lifecycle**, not just the implementation layer.
-
-**Engineering + Design + Product + Business = Technology people actually use.**
-
----
-
-# `12` — CONNECT
+# `09` — CONNECT
 
 <div align="center">
 
@@ -436,6 +362,15 @@ I'm interested in the **complete technology lifecycle**, not just the implementa
 
 <a href="https://github.com/sarthak-kale">
 <img src="https://img.shields.io/badge/GitHub-Sarthak%20Kale-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="mailto:you@example.com">
+<img src="https://img.shields.io/badge/Email-Reach%20Out-22C55E?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
