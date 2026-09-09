@@ -1,396 +1,509 @@
 <div align="center">
 
-# Sarthak Kale
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:111827,100:00D9FF&text=SARTHAK%20KALE&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%7C%20PRODUCT%20ENGINEER%20%7C%20STARTUP%20BUILDER&descSize=16&descAlignY=62&animation=twinkling" width="100%"/>
 
-### Full-Stack Developer · Product Engineer · Startup Builder
+<br/>
 
-**I design and build scalable digital products from idea to production.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+digital+products+from+0+%E2%86%92+1;Engineering+%2B+Design+%2B+Product;Turning+ideas+into+production-ready+software;Building+Happenins+%F0%9F%9A%80;Code.+Create.+Launch.+Scale." />
 
-<br />
+<br/><br/>
 
-<a href="https://github.com/sarthak-kale">
-  <img src="https://img.shields.io/badge/GitHub-sarthak--kale-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=sarthak-kale&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,firebase,git,github,figma,vscode&perline=12" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-Full--Stack%20Engineering-00D9FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/BUILDING-Happenins-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MINDSET-Product%20First-22C55E?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
 ---
 
-# 👋 About
+<div align="center">
 
-I'm a **Full-Stack Developer and Startup Builder** focused on turning ideas into reliable, polished and scalable products.
+# `01` — WHO I AM
 
-I enjoy working across the entire product lifecycle:
+### **I don't just write code. I build products.**
+
+</div>
+
+<table>
+<tr>
+<td width="55%">
+
+I'm a **Full-Stack Developer, Product Engineer and Startup Builder** focused on creating modern digital products from concept to production.
+
+I enjoy working across the complete product lifecycle:
+
+**Problem → Product → Architecture → Code → Users → Growth**
+
+My work combines:
+
+* 🧠 Engineering
+* 🎨 Product Design
+* 🏗️ Architecture
+* 🚀 Startup Thinking
+* 📈 Continuous Improvement
+
+</td>
+
+<td width="45%">
 
 ```text
-Idea
- ↓
-Product Strategy
- ↓
-UI / UX
- ↓
-Architecture
- ↓
-Development
- ↓
-Testing
- ↓
-Deployment
- ↓
-Iteration
+       ┌──────────────────┐
+       │      IDEA        │
+       └────────┬─────────┘
+                │
+          ┌─────▼─────┐
+          │   DESIGN  │
+          └─────┬─────┘
+                │
+       ┌────────▼────────┐
+       │   ARCHITECTURE  │
+       └────────┬────────┘
+                │
+          ┌─────▼─────┐
+          │    CODE   │
+          └─────┬─────┘
+                │
+         ┌──────▼──────┐
+         │    SHIP     │
+         └──────┬──────┘
+                │
+          ┌─────▼─────┐
+          │   SCALE   │
+          └───────────┘
 ```
 
-My interests sit at the intersection of **software engineering, product design and entrepreneurship**.
+</td>
+</tr>
+</table>
 
-> **Build useful things. Keep the architecture clean. Ship continuously.**
-
----
-
-# ⚡ Engineering Stack
+<br/>
 
 <div align="center">
 
-### Frontend
+> **Build useful things. Keep the architecture clean. Ship continuously.**
+
+</div>
+
+---
+
+# `02` — ENGINEERING STACK
+
+<div align="center">
+
+## ⚛️ Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 
-### Backend / Cloud
+<br/><br/>
+
+## ☁️ Backend & Cloud
 
 <img src="https://skillicons.dev/icons?i=firebase" />
 
-### Development Tools
+<br/><br/>
+
+## 🛠️ Tools & Workflow
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 
 </div>
 
-<br />
+<br/>
 
-| Area                   | Technologies                                                    |
-| :--------------------- | :-------------------------------------------------------------- |
-| **Languages**          | JavaScript · TypeScript · HTML · CSS                            |
-| **Frontend**           | React · Next.js · Tailwind CSS                                  |
-| **Backend / Services** | Firebase                                                        |
-| **Database**           | Firebase / Cloud Data                                           |
-| **Design**             | Figma · UI/UX                                                   |
-| **Version Control**    | Git · GitHub                                                    |
-| **Development**        | VS Code                                                         |
-| **Focus**              | Full-Stack Applications · Product Engineering · MVP Development |
+<table>
+<tr>
+<th>Domain</th>
+<th>Stack</th>
+</tr>
 
----
+<tr>
+<td>Languages</td>
+<td>JavaScript · TypeScript · HTML · CSS</td>
+</tr>
 
-# 🚀 What I Build
+<tr>
+<td>Frontend</td>
+<td>React · Next.js · Tailwind CSS</td>
+</tr>
 
-### `01` — Production-Ready Web Applications
+<tr>
+<td>Backend</td>
+<td>Firebase · Cloud Services</td>
+</tr>
 
-I build modern web applications with an emphasis on:
+<tr>
+<td>Design</td>
+<td>Figma · UI/UX</td>
+</tr>
 
-* ⚡ Performance
-* 🧩 Maintainable architecture
-* 📱 Responsive experiences
-* 🔐 Secure application design
-* 🎨 Consistent UI systems
-* ♻️ Reusable components
-* 📈 Scalability
+<tr>
+<td>Version Control</td>
+<td>Git · GitHub</td>
+</tr>
 
----
+<tr>
+<td>Development</td>
+<td>VS Code</td>
+</tr>
 
-### `02` — Startup Products
-
-I enjoy taking products from **zero → one**.
-
-```text
-Problem
-   ↓
-Research
-   ↓
-Solution
-   ↓
-MVP
-   ↓
-Real Users
-   ↓
-Feedback
-   ↓
-Iteration
-```
-
-The goal isn't simply to write code.
-
-**The goal is to solve the right problem with software.**
+</table>
 
 ---
 
-### `03` — Interactive Experiences
+# `03` — WHAT I BUILD
 
-I also experiment with:
+<table>
+<tr>
 
-* 🎮 Browser games
-* ✨ Interactive interfaces
-* 🧠 Logic-based applications
-* 🎨 Experimental UI
-* ⚡ Web animations
+<td width="33%" align="center">
 
-These projects help me explore ideas outside conventional application development.
+## 🌐
+
+### WEB PRODUCTS
+
+Modern applications designed around performance, usability and scalability.
+
+`React` `Next.js` `TypeScript`
+
+</td>
+
+<td width="33%" align="center">
+
+## 🚀
+
+### STARTUP MVPs
+
+Taking products from **zero → one** and validating ideas with real users.
+
+`Product` `UX` `Engineering`
+
+</td>
+
+<td width="33%" align="center">
+
+## 🎮
+
+### EXPERIMENTS
+
+Games, interactive interfaces, animations and unconventional web experiences.
+
+`JavaScript` `UI` `Logic`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🏗️ Startup Lab
+# `04` — STARTUP LAB
 
 <div align="center">
 
-## 🚀 Happenins
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=gradient&customColorList=12&text=HAPPENINS&fontSize=42&fontColor=FFFFFF&animation=fadeIn" width="90%"/>
 
-### Discover. Experience. Connect.
+### **Discover · Experience · Connect**
 
 </div>
 
-**Happenins** is a startup project focused on helping people discover **events, activities, experiences and things happening around them.**
+**Happenins** is a startup product focused on helping people discover **events, activities, experiences and things happening around them.**
 
-The product vision involves connecting:
+The vision:
 
 ```text
-                    HAPPENINS
-                        │
-          ┌─────────────┴─────────────┐
-          │                           │
-       Customers                   Businesses
-          │                           │
-          ▼                           ▼
-    Discover Events            Publish Experiences
-          │                           │
-          └─────────────┬─────────────┘
-                        │
-                        ▼
-                   Community
+                         HAPPENINS
+                             │
+             ┌───────────────┴───────────────┐
+             │                               │
+             ▼                               ▼
+       👤 CUSTOMERS                    🏪 BUSINESSES
+             │                               │
+             │                               │
+       Discover Events                Publish Experiences
+             │                               │
+             └───────────────┬───────────────┘
+                             │
+                             ▼
+                        👥 COMMUNITY
+                             │
+                             ▼
+                       📈 GROWTH
+```
+
+### Product Architecture Mindset
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                         HAPPENINS                           │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   CUSTOMER APP          BUSINESS PLATFORM        ADMIN      │
+│        │                       │                    │        │
+│        └───────────────┬───────┴────────────────────┘        │
+│                        │                                    │
+│                        ▼                                    │
+│                  APPLICATION API                            │
+│                        │                                    │
+│                        ▼                                    │
+│                  CLOUD / DATABASE                           │
+│                        │                                    │
+│                        ▼                                    │
+│                    ANALYTICS                                │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ### Product Focus
 
-* 📍 Discovery
-* 🎟️ Experiences
-* 🏪 Local businesses
-* 👥 Community
-* 📱 Modern mobile-first UX
-* ⚡ Real-time product interactions
-
-**Current objective:** transform the concept into a scalable MVP and validate it with real users.
+`📍 Discovery` · `🎟️ Experiences` · `🏪 Local Business` · `👥 Community` · `📱 Mobile First` · `⚡ Real-Time`
 
 ---
 
-# 🧠 Engineering Mindset
+# `05` — ENGINEERING MINDSET
 
-I care about more than making something **work**.
+<div align="center">
 
-I care about making it:
+### **Working code is the starting point — not the finish line.**
+
+</div>
 
 ```text
-Readable
-   +
-Maintainable
-   +
-Scalable
-   +
-Testable
-   +
-Performant
-   +
-Easy to iterate
+                  ┌─────────────────┐
+                  │    READABLE     │
+                  └────────┬────────┘
+                           │
+                  ┌────────▼────────┐
+                  │  MAINTAINABLE   │
+                  └────────┬────────┘
+                           │
+             ┌─────────────▼─────────────┐
+             │         SCALABLE          │
+             └─────────────┬─────────────┘
+                           │
+                  ┌────────▼────────┐
+                  │    TESTABLE     │
+                  └────────┬────────┘
+                           │
+                  ┌────────▼────────┐
+                  │   PERFORMANT    │
+                  └────────┬────────┘
+                           │
+                  ┌────────▼────────┐
+                  │  EASY TO EVOLVE │
+                  └─────────────────┘
 ```
 
-### Principles I follow
+### Principles
 
-**01 — Simplicity**
-
-> Prefer simple systems that solve real problems.
-
-**02 — Reusability**
-
-> Build components and systems that can evolve.
-
-**03 — Performance**
-
-> Fast interfaces create better products.
-
-**04 — Product Thinking**
-
-> Code is a tool. User value is the outcome.
-
-**05 — Continuous Improvement**
-
-> Ship → Measure → Learn → Improve.
+| Principle            | What it means                                                |
+| -------------------- | ------------------------------------------------------------ |
+| **Simplicity**       | Solve complex problems with understandable systems.          |
+| **Reusability**      | Build components that can evolve instead of being rewritten. |
+| **Performance**      | Fast software creates better experiences.                    |
+| **Product Thinking** | Technology should create measurable user value.              |
+| **Iteration**        | Ship → Measure → Learn → Improve.                            |
 
 ---
 
-# 🧪 Current Focus
+# `06` — CURRENTLY BUILDING
 
 ```yaml
-currently_building:
-  - Modern web applications
-  - Startup MVPs
-  - Interactive frontend experiences
-  - Mini web games
+developer:
+  name: Sarthak Kale
+  role:
+    - Full-Stack Developer
+    - Product Engineer
+    - Startup Builder
 
-currently_learning:
+building:
+  - Modern Web Applications
+  - Startup MVPs
+  - Interactive Frontend Experiences
+  - Mini Web Games
+
+learning:
   - Advanced React
   - Next.js
-  - Full-stack architecture
-  - Scalable application design
-  - Product development
+  - Full-Stack Architecture
+  - Scalable Application Design
+  - Product Development
 
-long_term_goal:
-  - Build products used by real people
-  - Become a stronger product engineer
-  - Build and scale technology startups
+interests:
+  - Software Engineering
+  - Product Design
+  - Startups
+  - UX Engineering
+  - Interactive Experiences
+
+mission:
+  - Build products people actually use
+  - Solve meaningful problems
+  - Learn through shipping
 ```
 
 ---
 
-# 📊 GitHub Activity
+# `07` — HOW I APPROACH SOFTWARE
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sarthak-kale&show_icons=true&hide_border=true&theme=transparent&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&rank_icon=github" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-kale&hide_border=true&theme=transparent&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-kale&layout=compact&hide_border=true&theme=transparent&title_color=58a6ff&text_color=8b949e" width="42%" />
-
-</div>
-
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-# 📐 How I Think About Software
 
 ```text
-                         PRODUCT
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │  User Problem │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │    Solution   │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │ Architecture  │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │     Build     │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │     Ship      │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │    Measure    │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │    Improve    │
-                    └───────┬───────┘
-                            │
-                            └──────────► Repeat
+                         USER
+                          │
+                          ▼
+                   ┌─────────────┐
+                   │   PROBLEM   │
+                   └──────┬──────┘
+                          │
+                          ▼
+                   ┌─────────────┐
+                   │   RESEARCH  │
+                   └──────┬──────┘
+                          │
+                          ▼
+                   ┌─────────────┐
+                   │   SOLUTION  │
+                   └──────┬──────┘
+                          │
+                          ▼
+                   ┌─────────────┐
+                   │ ARCHITECTURE│
+                   └──────┬──────┘
+                          │
+                          ▼
+                   ┌─────────────┐
+                   │    BUILD    │
+                   └──────┬──────┘
+                          │
+                          ▼
+                   ┌─────────────┐
+                   │    SHIP     │
+                   └──────┬──────┘
+                          │
+                          ▼
+                   ┌─────────────┐
+                   │   MEASURE   │
+                   └──────┬──────┘
+                          │
+                          ▼
+                   ┌─────────────┐
+                   │   IMPROVE   │
+                   └──────┬──────┘
+                          │
+                          └──────────► 🔁
 ```
-
----
-
-# 🏆 Build Philosophy
-
-<div align="center">
-
-| Learn | Design | Build | Ship | Improve |
-| :---: | :----: | :---: | :--: | :-----: |
-|   🧠  |   🎨   |   💻  |  🚀  |    📈   |
 
 </div>
 
-I believe the fastest way to become a better engineer is to **build real things**.
+---
 
-Not just tutorials.
+# `08` — GITHUB UNIVERSE
 
-Not just certificates.
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sarthak-kale&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=00D9FF&text_color=8B949E&icon_color=00D9FF&rank_icon=github" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-kale&hide_border=true&theme=transparent&background=00000000&ring=00D9FF&fire=8B5CF6&currStreakLabel=00D9FF" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-kale&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=00D9FF&text_color=8B949E" width="40%" />
+
+</div>
+
+---
+
+# `09` — CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+# `10` — DEVELOPER PHILOSOPHY
+
+<div align="center">
+
+### **"Don't just learn technology. Build with it."**
+
+<br/>
+
+<table>
+<tr>
+<td align="center">🧠<br/><b>LEARN</b></td>
+<td>→</td>
+<td align="center">🎨<br/><b>DESIGN</b></td>
+<td>→</td>
+<td align="center">💻<br/><b>BUILD</b></td>
+<td>→</td>
+<td align="center">🚀<br/><b>SHIP</b></td>
+<td>→</td>
+<td align="center">📈<br/><b>IMPROVE</b></td>
+</tr>
+</table>
+
+<br/>
 
 **Real products. Real problems. Real users.**
 
+</div>
+
 ---
 
-# 🌐 Beyond Code
-
-I'm interested in the complete process of creating technology:
+# `11` — BEYOND CODE
 
 ```text
-Engineering
-     +
-Design
-     +
-Product
-     +
-Business
-     =
-Technology People Actually Use
+              ┌──────────────────┐
+              │   ENGINEERING    │
+              └────────┬─────────┘
+                       │
+             ┌─────────▼─────────┐
+             │       DESIGN      │
+             └─────────┬─────────┘
+                       │
+             ┌─────────▼─────────┐
+             │      PRODUCT      │
+             └─────────┬─────────┘
+                       │
+             ┌─────────▼─────────┐
+             │      BUSINESS     │
+             └─────────┬─────────┘
+                       │
+                       ▼
+              ┌──────────────────┐
+              │   REAL IMPACT    │
+              └──────────────────┘
 ```
 
-That's what makes startup building exciting to me.
+I'm interested in the **complete technology lifecycle**, not just the implementation layer.
+
+**Engineering + Design + Product + Business = Technology people actually use.**
 
 ---
 
-# 📡 Connect
+# `12` — CONNECT
 
 <div align="center">
 
 ### Let's build something meaningful.
 
-<br />
+<br/>
 
 <a href="https://github.com/sarthak-kale">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Sarthak%20Kale-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br /><br />
+<br/><br/>
 
-**Building in public.**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00D9FF,50:111827,100:0D1117" width="100%"/>
 
-**One product at a time.**
-
-<br />
-
-`Code` · `Create` · `Launch` · `Scale`
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Keep building.
+### `CODE` · `CREATE` · `LAUNCH` · `SCALE`
 
 </div>
