@@ -5,13 +5,13 @@
 <br/>
 
 \`\`\`
-$ whoami
+### $ whoami
 > a developer who ships things people actually use
 
-$ status
+### $ status
 > currently building Happenins 🚀
 
-$ philosophy
+### $ philosophy
 > code is a means, not the point — the point is the user on the other end
 \`\`\`
 
