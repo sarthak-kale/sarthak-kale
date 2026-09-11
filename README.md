@@ -238,12 +238,6 @@ developer:
     - Full-Stack Developer
     - Product Engineer
     - Startup Builder
-
-building:
-  - Happenins — event discovery & ticketing
-  - Algora — DSA learning & visualization SaaS
-  - MediSync — emergency healthcare coordination
-
 learning:
   - Advanced React
   - Next.js
