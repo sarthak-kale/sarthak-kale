@@ -2,9 +2,16 @@
 
 <img src="assets/hero.svg" width="100%" alt="Sarthak Kale — Software Engineer, Full Stack Developer, Builder"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+real-world+digital+products.;Engineering+clean+and+scalable+systems.;Turning+ideas+into+working+software.;Code+%E2%86%92+Product+%E2%86%92+Impact." />
-
 <br/>
+
+<a href="#about"><b>About</b></a> &nbsp;·&nbsp;
+<a href="#stack"><b>Stack</b></a> &nbsp;·&nbsp;
+<a href="#projects"><b>Projects</b></a> &nbsp;·&nbsp;
+<a href="#contributions"><b>Contributions</b></a> &nbsp;·&nbsp;
+<a href="#stats"><b>Stats</b></a> &nbsp;·&nbsp;
+<a href="#connect"><b>Connect</b></a>
+
+<br/><br/>
 
 <a href="https://github.com/sarthak-kale"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://instagram.com/_sarthakkale"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
@@ -15,9 +22,9 @@
 
 </div>
 
-## `01` · Who I Am
+## About
 
-I'm a **Computer Science & Engineering student** focused on full-stack development, product engineering and modern software architecture. I turn complex problems into **simple, useful and polished digital experiences**.
+I'm a **Computer Science & Engineering student** focused on full-stack development, product engineering and modern software architecture. I like turning complex problems into **simple, useful and polished digital experiences**, and I care about the whole path from idea to production.
 
 ```ts
 const sarthak = {
@@ -30,13 +37,25 @@ const sarthak = {
 } as const;
 ```
 
-```text
-IDEA → RESEARCH → ARCHITECTURE → BUILD → TEST → SHIP
-```
+<details>
+<summary><b>How I work</b></summary>
+
+<br/>
+
+| Step | Focus |
+|:---:|---|
+| 01 | Understand the problem |
+| 02 | Design the architecture |
+| 03 | Build the system |
+| 04 | Test the edge cases |
+| 05 | Improve the experience |
+| 06 | Ship |
+
+</details>
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
-## `02` · The Stack, In 3D
+## Stack
 
 <div align="center">
 
@@ -44,33 +63,33 @@ IDEA → RESEARCH → ARCHITECTURE → BUILD → TEST → SHIP
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python&perline=6" /><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=5" /><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,mongodb,postgres&perline=5" /><br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,figma,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python&perline=6"/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=5"/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,mongodb,postgres&perline=5"/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,figma,vscode&perline=7"/>
 
 </div>
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
-## `03` · What I Build
+## Projects
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🎟️ Happenins</h3>
+      <h3>🎟️ <a href="https://github.com/sarthak-kale?tab=repositories&q=happenins">Happenins</a></h3>
       <b>Event discovery &amp; digital ticketing</b><br/><br/>
       Events, booking, QR tickets and organizer systems in one platform.<br/><br/>
       <code>Events</code> <code>Booking</code> <code>QR Tickets</code>
     </td>
     <td width="33%" valign="top">
-      <h3>⏱️ FocusFlow</h3>
+      <h3>⏱️ <a href="https://github.com/sarthak-kale?tab=repositories&q=focusflow">FocusFlow</a></h3>
       <b>Productivity &amp; personal management</b><br/><br/>
       Tasks, Pomodoro timer, habit tracking and analytics.<br/><br/>
       <code>Tasks</code> <code>Habits</code> <code>Analytics</code>
     </td>
     <td width="33%" valign="top">
-      <h3>✈️ Skylight</h3>
+      <h3>✈️ <a href="https://github.com/sarthak-kale?tab=repositories&q=skylight">Skylight</a></h3>
       <b>Real-time aviation tracking</b><br/><br/>
       Live aircraft, flights and airport data in one view.<br/><br/>
       <code>Aircraft</code> <code>Flights</code> <code>Live Data</code>
@@ -80,7 +99,7 @@ IDEA → RESEARCH → ARCHITECTURE → BUILD → TEST → SHIP
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
-## `04` · My Contributions, In 3D
+## Contributions
 
 <div align="center">
 
@@ -98,7 +117,7 @@ IDEA → RESEARCH → ARCHITECTURE → BUILD → TEST → SHIP
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
-## `05` · Analytics
+## Stats
 
 <div align="center">
 
@@ -113,18 +132,19 @@ IDEA → RESEARCH → ARCHITECTURE → BUILD → TEST → SHIP
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
-## `06` · Dev Thought
+## Connect
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+> **Build simple. Think deeply. Ship consistently.**
 
-<br/><br/>
-
-### Let's build something.
+Open to collaborations, internships and interesting product ideas.
 
 <a href="mailto:sarthakkale2103@gmail.com"><img src="https://img.shields.io/badge/Email_me-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/_sarthakkale"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+<a href="https://github.com/sarthak-kale"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
 
 **BUILD · LEARN · SHIP**
 
