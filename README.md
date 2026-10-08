@@ -4,19 +4,23 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+real-world+digital+products.;Engineering+clean+and+scalable+systems.;Turning+ideas+into+working+software.;Code+%E2%86%92+Product+%E2%86%92+Impact." />
 
-<br/>
-
-<a href="https://github.com/sarthak-kale"><img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://instagram.com/_sarthakkale"><img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a> <a href="mailto:sarthakkale2103@gmail.com"><img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
-
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2"/>
+<a href="https://github.com/sarthak-kale">
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://instagram.com/_sarthakkale">
+<img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+<a href="mailto:sarthakkale2103@gmail.com">
+<img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
 </div>
 
 ---
 
-## `01` — ABOUT ME
+# `01` — ABOUT ME
 
 I'm a **Computer Science & Engineering student** focused on full-stack development, product engineering and modern software architecture.
 
@@ -28,65 +32,123 @@ I enjoy turning complex problems into **simple, useful and polished digital expe
 
 ---
 
-## `02` — TECH STACK
+# `02` — TECHNOLOGY UNIVERSE
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,html,css,react,nextjs,nodejs,firebase,vercel,netlify" />
+### ↓  FALLING INTO THE STACK  ↓
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,java,javascript,typescript,cpp,python" width="650"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres,supabase,docker,vercel,netlify" width="580"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,html,css,tailwind" width="600"/>
+
+<br/><br/>
+
+```text
+                         ✦
+                       ╱   ╲
+                    ◈  REACT  ◈
+                       ╲   ╱
+                         ↓
+                  ┌──────────────┐
+                  │   NEXT.JS    │
+                  └──────┬───────┘
+                         ↓
+                  ┌──────────────┐
+                  │   NODE.JS    │
+                  └──────┬───────┘
+                         ↓
+              ┌──────────────────────┐
+              │    FIREBASE / DB     │
+              └──────────┬───────────┘
+                         ↓
+                  ┌──────────────┐
+                  │   DEPLOYED   │
+                  └──────────────┘
+                         ↓
+                       ◉ LIVE
+```
 
 </div>
 
-**Core:** `C` · `C++` · `Java` · `JavaScript`
-**Frontend:** `HTML` · `CSS` · `React` · `Next.js`
-**Backend:** `Node.js` · `Firebase`
-**Deployment:** `Vercel` · `Netlify`
-**Mobile:** `React Native`
+### Languages
+
+`C` · `C++` · `Java` · `JavaScript` · `TypeScript` · `Python`
+
+### Frontend
+
+`HTML` · `CSS` · `React` · `Next.js` · `Tailwind`
+
+### Backend & Cloud
+
+`Node.js` · `Firebase` · `Supabase` · `MongoDB` · `PostgreSQL`
+
+### Tools & Deployment
+
+`Git` · `GitHub` · `VS Code` · `Docker` · `Vercel` · `Netlify` · `Figma`
 
 ---
 
-## `03` — WHAT I BUILD
+# `03` — WHAT I BUILD
+
+<div align="center">
 
 ```text
-┌────────────────────────────────────────────────────┐
-│                                                    │
-│   PRODUCT        SYSTEMS         EXPERIENCE        │
-│      │              │                 │            │
-│      ▼              ▼                 ▼            │
-│   SaaS          Architecture        UI / UX        │
-│   Web Apps      APIs                Performance     │
-│   Platforms     Data                Interaction     │
-│                                                    │
-└────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║                 PRODUCT ENGINEERING                     ║
+║                                                          ║
+║       UI/UX  ───►  LOGIC  ───►  DATA  ───►  SCALE      ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-### Featured Projects
+</div>
 
-**Happenins** — Event discovery & digital ticketing platform
+### Happenins
+
+**Event Discovery & Digital Ticketing**
+
 `Events · Booking · QR Tickets · Organizer Systems`
 
-**FocusFlow** — Productivity & personal management platform
+### FocusFlow
+
+**Productivity & Personal Management**
+
 `Tasks · Pomodoro · Habits · Analytics`
 
-**Skylight** — Real-time aviation tracking concept
+### Skylight
+
+**Real-Time Aviation Tracking**
+
 `Aircraft · Flights · Airports · Live Data`
 
 ---
 
-## `04` — ENGINEERING MINDSET
+# `04` — ENGINEERING MINDSET
 
 > **Build simple. Think deeply. Ship consistently.**
 
 ```text
 01  Understand the problem
-02  Design before implementation
-03  Build for change
-04  Handle failure gracefully
-05  Optimize the experience
-06  Learn → Iterate → Improve
+        ↓
+02  Design the architecture
+        ↓
+03  Build the system
+        ↓
+04  Test the edge cases
+        ↓
+05  Improve the experience
+        ↓
+06  Ship
 ```
 
 ---
@@ -107,37 +169,7 @@ I enjoy turning complex problems into **simple, useful and polished digital expe
 
 ---
 
-# `06` — CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak-kale&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# `07` — GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sarthak-kale&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1"/>
-
-</div>
-
----
-
-# `08` — CONTRIBUTED REPOSITORIES
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=sarthak-kale&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-
-</div>
-
----
-
-# `09` — RANDOM DEV THOUGHT
+# `06` — DEV THOUGHT
 
 <div align="center">
 
@@ -147,7 +179,7 @@ I enjoy turning complex problems into **simple, useful and polished digital expe
 
 ---
 
-## `10` — CONNECT
+# `07` — CONNECT
 
 <div align="center">
 
@@ -156,20 +188,27 @@ I enjoy turning complex problems into **simple, useful and polished digital expe
 </a>
 
 <a href="mailto:sarthakkale2103@gmail.com">
-<img src="https://img.shields.io/badge/sarthakkale2103@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <br/><br/>
 
 ### BUILD · LEARN · SHIP
 
-<img src="https://komarev.com/ghpvc/?username=sarthak-kale&label=PROFILE%20VIEWS&color=1F6FEB&style=flat-square"/>
+<br/>
 
-<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=sarthak-kale&label=PROFILE%20VIEWS&color=1F6FEB&style=flat-square"/>
 
 </div>
 
 ---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,40:161B22,70:0D1117,100:050505&height=160&section=footer&animation=twinkling"/>
+
+</div>
+
 
 <div align="center">
 
