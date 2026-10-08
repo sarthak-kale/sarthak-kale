@@ -1,34 +1,40 @@
 <div align="center">
 
-# 👋 Hey, I'm Sarthak Kale
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         3D HERO                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 💻 CSE Student • Full-Stack Developer • Builder
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:1f6feb&height=300&section=header&text=SARTHAK%20KALE&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20PRODUCT%20BUILDER&descAlignY=62&descSize=18&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Ideas+into+Products;Full-Stack+Developer;Java+%7C+React+%7C+Next.js;Creating+the+Future+One+Project+at+a+Time" />
+<br/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=ARCHITECTING+DIGITAL+PRODUCTS;BUILDING+FULL+STACK+SYSTEMS;DESIGNING+FOR+SCALE;TURNING+IDEAS+INTO+SOFTWARE" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:00F7FF&height=180&section=header&text=SARTHAK%20KALE&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20SHIP&descAlignY=55&descSize=16" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2"/>
+
+<br/>
 
 </div>
 
----
 
-## 🚀 About Me
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         IDENTITY                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-```java
-public class SarthakKale {
+<div align="center">
 
-    String name = "Sarthak Kale";
-    String field = "Computer Science & Engineering";
+```text
+                         ┌─────────────────────────────┐
+                         │                             │
+                         │          S A R T H A K      │
+                         │                             │
+                         │             K A L E         │
+                         │                             │
+                         │    SOFTWARE • SYSTEMS       │
+                         │       • PRODUCT             │
+                         │                             │
+                         └─────────────────────────────┘
 
-    String[] interests = {
-        "Full-Stack Development",
-        "UI/UX",
-        "Software Engineering",
-        "Building SaaS Products",
-        "Problem Solving"
-    };
-
-    String mindset = "Build. Break. Learn. Repeat.";
-}
+                     BUILD  →  SHIP  →  LEARN  →  SCALE
