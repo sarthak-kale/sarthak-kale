@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6d28d9,100:c026d3&height=220&section=header&text=FALCO&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Founder%20%26%20Managing%20Director&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Falco banner" />
+<img src="assets/header.jpg" width="100%" alt="Falco header" />
 
 # Hi 👋, I'm Falco
 
