@@ -2,17 +2,6 @@
 <img src="assets/header.jpg" width="100%" alt="Astronaut Space Banner" />
 </div>
 
-<div align="center">
-
-<img src="assets/hero-title.svg" width="900" alt="Sarthak Kale — Computer Science Student | Developer | Builder" />
-
-<br/>
-
-<a href="https://github.com/YOUR_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&logoColor=22d3ee&labelColor=000000&color=0b1e3f" alt="GitHub followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&style=for-the-badge&labelColor=000000&color=0b1e3f" alt="Profile views" />
-<img src="https://img.shields.io/badge/PRIMARY-JAVA-0b1e3f?style=for-the-badge&logo=openjdk&logoColor=22d3ee&labelColor=000000" alt="Primary language: Java" />
-
-</div>
 
 <br/>
 
